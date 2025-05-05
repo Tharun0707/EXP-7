@@ -1,6 +1,11 @@
 # Experiment 7: AI-Powered Smart Contract for Decentralized Negotiation
+
+**Name : Tharun Sridhar**
+
+**Reg No : 212223230230**
+
 # Aim:
-# To create a smart contract that integrates AI logic for automated negotiation in decentralized commerce. The contract adjusts price and conditions dynamically based on real-time market trends using an on-chain AI model.
+To create a smart contract that integrates AI logic for automated negotiation in decentralized commerce. The contract adjusts price and conditions dynamically based on real-time market trends using an on-chain AI model.
 
 # Algorithm:
 ## Step 1: AI-Powered Dynamic Pricing
@@ -94,8 +99,12 @@ contract AIPoweredNegotiation {
 ```
 
 # Expected Output:
+
+![ex7 bc - 1](https://github.com/user-attachments/assets/8f5a5805-4d03-4361-9d41-11458445f0b0)
+
 Buyers submit offers, and the contract auto-negotiates the price.
 
+![exp 7 bc -2 ](https://github.com/user-attachments/assets/f902f5b5-9009-4947-8dc5-2401b6721078)
 
 If the buyer’s offer is fair, the deal is executed.
 
@@ -117,5 +126,5 @@ Can be extended to AI oracles for real-time market data.
 Inspired by AI-enhanced commerce and eBay-like decentralized auctions.
 
 # RESULT:
-
+Thus, we create a smart contract that integrates AI logic for automated negotitation in decentralized commerce and is successfully executed.
 
